@@ -1,0 +1,24 @@
+{
+  "version": "3.0",
+  "release": "2026-03-22",
+  "changelog": [
+    "Plugin Framework v3 with full lifecycle hooks (install/upgrade/uninstall)",
+    "AES-256-GCM encryption for tasks.json",
+    "Undo/Redo with 50-step history",
+    "Enhanced ML: 14 features, ensemble calibration, explain output",
+    "SHA-256 verified plugin downloads",
+    "HTTPS support with Let's Encrypt auto-detection",
+    "Live plugin hot-reload",
+    "Auto-backup rolling 5 snapshots",
+    "Quick search with /",
+    "18 bundled plugins"
+  ],
+  "min_python": "3.9",
+  "sha256": "1e1198e95b72d3bd",
+  "sha256_full": "1e1198e95b72d3bd168ca82e5f53a36064da1feb2cefd16751a949880c058cb8",
+  "size": 139270,
+  "api_version": "3.0",
+  "author": "fredima2x",
+  "homepage": "https://fredima.de",
+  "registry": "https://fredima.de/api/plugins"
+}
